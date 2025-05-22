@@ -1,0 +1,2 @@
+# Snoopy
+Bot-Discord-js
